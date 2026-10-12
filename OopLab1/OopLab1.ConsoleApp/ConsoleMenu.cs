@@ -75,7 +75,7 @@ public class ConsoleMenu
         }
     }
 
-    // executes the specific task for the variant: counts 3rd-year students born in summer
+    
     private void ExecuteVariantTask()
     {
         int count = 0;
