@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopLab2.Core", "OopLab2.Core\OopLab2.Core.csproj", "{3F2B8D24-85C1-4D37-8C1A-2C3669F1B2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopLab2.ConsoleApp", "OopLab2.ConsoleApp\OopLab2.ConsoleApp.csproj", "{7A9E5F12-14D9-4B5C-9A8E-52317B80E42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F2B8D24-85C1-4D37-8C1A-2C3669F1B2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2B8D24-85C1-4D37-8C1A-2C3669F1B2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2B8D24-85C1-4D37-8C1A-2C3669F1B2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2B8D24-85C1-4D37-8C1A-2C3669F1B2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9E5F12-14D9-4B5C-9A8E-52317B80E42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9E5F12-14D9-4B5C-9A8E-52317B80E42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9E5F12-14D9-4B5C-9A8E-52317B80E42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9E5F12-14D9-4B5C-9A8E-52317B80E42C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
